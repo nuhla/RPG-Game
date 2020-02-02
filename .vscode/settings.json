@@ -1,8 +1,10 @@
 {
-    "java.configuration.updateBuildConfiguration": "disabled",
-    "editor.formatOnSave": true,
-    "css.lint.fontFaceProperties": "ignore",
-    "css.lint.propertyIgnoredDueToDisplay": "ignore",
-    "css.lint.unknownAtRules": "ignore",
-    "css.lint.unknownProperties": "ignore"
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "css.lint.fontFaceProperties": "ignore",
+  "css.lint.propertyIgnoredDueToDisplay": "ignore",
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.unknownProperties": "ignore",
+  "java.format.onType.enabled": false,
+  "editor.defaultFormatter": "svipas.prettier-plus",
+  "editor.formatOnSave": false
 }
